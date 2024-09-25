@@ -1,54 +1,10 @@
-.menu-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-  }
+li{background-color: rgb(139, 139, 139);
+    border: 2px solid grey;
+        width: 285px;
+        margin: 15px;    
+    }
+div.parrent{display: flex;
+    height: 960px;
+    width: 960px;
 
-.box {
-    background-color: rgb(179, 176, 176);
-}
-.box1 {
-    width: 230px;
-    height: 250px;
-}
-
-.box2 {
-    width: 300px;
-    height: 100px;
-}
-
-.box3 {
-    width: 400px;
-    height: 200px;
-}
-
-.box4 {
-    width: 230px;
-    height: 100px;
-}
-
-.box5 {
-    width: 300px;
-    height: 100px;
-}
-
-.box6 {
-    width: 200px;
-    height: 300px;
-}
-
-.box7 {
-    width: 230px;
-    height: 150px;
-}
-
-.box8 {
-    width: 300px;
-    height: 300px;
-}
-
-.box9 {
-    width: 300px;
-    height: 300px;
-}
-
+border: 2px solid black;}
